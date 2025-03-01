@@ -1,6 +1,6 @@
-# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scans
+# Identifying Diseases in Chest X-Rays & CANCER Detection from CT Scan
 
-## The Problem 
+## The Main Problem 
 The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
 
 Our local community faces the burden of inadequate healthcare infrastructure and limited resources, which further amplifies the impact of these challenges. Early detection of COVID-19 and other chest diseases is crucial for effective treatment and preventing the spread of the virus. By deploying an AI-powered solution capable of accurately analyzing chest X-rays and identifying diseases, we can make a significant positive impact on the healthcare landscape of Myanmar, Asian countries, and people around the world.
